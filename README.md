@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/ck5mPKW/Blank-Icons.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Fix-white-or-blank-Icons-Windows-10-and-11/blob/main/Blank-Icons.png" width="200"></a>
 <h1 align="center"><b>How to fix white or blank Icons on the Windows 10 and 11 Desktop or Taskbar</b></h1>
 
 <p align="center">
