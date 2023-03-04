@@ -150,7 +150,7 @@ timeout /t 1 /NOBREAK > nul
 start explorer
 @echo on
 ```
-Now double click on this File. When asked, confirm with Y for yes and have it done.
+Now double click on this File. When asked, confirm with ```Y``` for ```yes``` and have it done.
 Among other things, explorer.exe is terminated and the three Files mentioned above are deleted.
 After restarting explorer.exe, a new Cache is created.
 <br />
